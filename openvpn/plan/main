@@ -1,0 +1,9 @@
+#include <turnkey/base>
+
+make
+ipcalc
+python-ipcalc
+openvpn
+easy-rsa
+lighttpd
+
